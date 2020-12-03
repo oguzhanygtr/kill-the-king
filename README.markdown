@@ -1,5 +1,5 @@
 # Kill The King - Vue / HTML game
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/oguzhanygtr/pen/eYdpywL](https://codepen.io/oguzhanygtr/pen/eYdpywL).
+The first game I worked on. Send me any feedback and comments [https://instagram.com/oguzhanygtr/](https://instagram.com/oguzhanygtr/).
 
 
